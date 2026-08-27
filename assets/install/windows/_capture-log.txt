@@ -1,0 +1,4 @@
+HudHud AIDE installer screenshot capture
+Setup: C:\Users\PC\Documents\hudhud-ide\hudhudinstaller\hudhud-aide-v0.4.46-win-x64-setup.exe
+Started: 2026-08-28 01:09:45
+[2026-08-28 01:09:51] Starting language 'en' (english).

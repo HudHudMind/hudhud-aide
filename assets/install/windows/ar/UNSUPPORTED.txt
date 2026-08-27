@@ -1,0 +1,3 @@
+ARABIC LOCALIZATION IS NOT AVAILABLE IN THIS INSTALLER BUILD.
+
+The Inno Setup [Languages] section for HudHud AIDE v0.4.46 does not define an Arabic language entry or Arabic message resources. No English fallback screenshots were mislabeled as Arabic.
